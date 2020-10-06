@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/mifive/githubazurepipelines/_apis/build/status/sangramrath.ContosoAir?branchName=master)](https://dev.azure.com/mifive/githubazurepipelines/_build/latest?definitionId=6&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 # Update Needed
 
